@@ -29,10 +29,18 @@ export default function Home() {
 
         <section className={styles.content}>
           <p>
-            Welcome to Taylors Magical Maids, your professional cleaning service
-            provider for homes and offices. We are committed to delivering
-            exceptional cleanliness and hygiene solutions that meet your
-            specific needs.
+            Welcome to Taylor&rsquo;s Magical Maids, founded by me, Taylor the
+            maid! From humble beginnings to a dream realized in Houston,
+            I&rsquo;m thrilled to launch my cleaning company. My mission? To
+            help you host unforgettable family gatherings and to kickstart a
+            happier, cleaner home life, all at an unbeatable price. I specialize
+            in transforming kitchens, bathrooms, and living spaces, bringing a
+            touch of sparkle wherever I go. Follow my cleaning journeys on my
+            social media soon for insider tips and see the magic unfold. Ready
+            for a spotless home? Reach out for a free consultation or book your
+            first session today. I&rsquo;m here to make cleanliness a joyful and
+            accessible experience for everyone. Can&rsquo;t wait to hear from
+            y&rsquo;all!
           </p>
         </section>
       </main>
